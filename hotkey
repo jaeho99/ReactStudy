@@ -1,0 +1,32 @@
+사이드바 열기, 닫기
+Cmd + B, Ctrl +B
+
+빠른 열기(파일이나 기호 탐색)
+Cmd + P, Ctrl + P
+
+모든 명령 표시(에디터의 모든 명령에 접근
+Cmd + Shfit + P, Ctrl + Shift + P
+
+편집기 닫기
+Cmd + W, Ctrl + W
+
+찾기
+Cmd + F, Ctrl + F
+
+찾기이후 바꾸기(대체)
+Cmd + Alt(Opt) + F, Ctrl + H
+
+줄바꿈
+Alt(Opt) + 위키, 아래키
+
+아래에 줄 복사
+Alt(Opt) + Shift + 아래키, Alt + Shift + 아래키
+
+되돌리기
+Cmd + Z, Ctrl + Z
+
+다음 편집기 열기(탭전환) $윈도우 단축키 확인
+Cmd + Shift + ], Ctrl + PageDown 
+
+
+권장하는 공백 크기 2(4에서 2로 바꾸기)
