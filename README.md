@@ -1,5 +1,5 @@
 # ReactStudy
-리액트 강의를 듣고 정리하기
+리액트 공부하기
 
 설치
 Visual Studio Code, Node.js, VSCode내부 npx
