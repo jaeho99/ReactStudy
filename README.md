@@ -69,3 +69,18 @@ arrow function () => ()
 funtion을 간결하고 가독성이 좋은 문법으로 제공한다. 
 
 
+리렌더링
+
+modifier함수
+
+// setCounter(counter + 1);
+setCounter((current) => current + 1);
+
+둘이 같은 변화를 일으키지만
+아래것이 더 안전하다
+
+함수전달하기
+current함수가 현재 state를 얻게 해준다.
+
+
+
