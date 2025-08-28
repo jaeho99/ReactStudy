@@ -1,0 +1,19 @@
+Props는 일종의 방식이다.
+부모 컴포넌트로부터 자식 컴포넌트에 데이터를 보낼 수 있게 해주는 방법
+
+function Btn(props)
+props는 유일한 인자다.
+
+<Btn apple="atwe" cola="true" />
+다음과 같은 상태에서 props를 확인해 보면 apple=atwe cola=true 가 나온다.
+apple 오브젝트를 꺼낼때
+props.apple로 꺼내지 않고도 꺼내는 방법이있다.
+fuction Btn({apple})과  {apple}을 쓰면 값만 빼내서 사용이 가능하다.
+
+<Btn text="abc" onClick={qwe} />
+다음과 같은 코드에서는 onClick은 이벤트 리스너가 아닌 props 단순 이름뿐이다.
+
+
+
+syntax = src, onClick, style 등등
+
