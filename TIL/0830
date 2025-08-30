@@ -1,0 +1,5 @@
+PropType은 어떤 타입의 prop을 받고 있는지 체크해준다.
+
+PropTypes를 활용하여 오류 인식이 가능하다.
+int,string 등등
+
