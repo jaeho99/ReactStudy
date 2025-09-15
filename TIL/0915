@@ -1,0 +1,9 @@
+react app으로 작업할 때의 포인트
+분할하고, 정복한다.
+
+import "./style.css" 가 아닌
+
+CSS modules 사용
+파일명은 .module.css 를 뒤에 붙여야한다.
+
+컴포넌트들이나 스타일들을 독립적이게 유지시켜준다.
