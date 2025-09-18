@@ -1,0 +1,22 @@
+EFFECTS
+
+create react app을 사용하기에
+
+React.useState();  가 아닌 useStste(); 만 적어줘도 import 가능
+
+
+특정 코드들이 첫번째 render에서만 실행 되게 하는 방법
+
+useEffect
+처음 한번만 실행하고 이 후에는 실행되지 않는다.
+
+useEffect(() => {
+  console.log("API...");
+}, []);
+
+
+const [apple, setApple] = useState("");
+첫 번째 apple은 값을 의미하고 두 번째 setApple은 modify하는 function이다.
+(변경하는 함수)
+
+
